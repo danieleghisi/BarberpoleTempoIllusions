@@ -1,4 +1,4 @@
-#Full spectrum illusion
+# Full spectrum illusion
 Audio examples and patches relating to section 4 of the main article.
 
 Audio examples were obtained as follows:

@@ -1,4 +1,4 @@
-#Increasingly accelerating rhythms
+# Increasingly accelerating rhythms
 Audio examples and patches relating to section 6 of the main article.
 
 Audio examples were obtained as follows:
