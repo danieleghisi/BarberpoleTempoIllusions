@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 106.0, 79.0, 1300.0, 745.0 ],
+		"rect" : [ 362.0, 79.0, 1300.0, 745.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -129,7 +129,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 156.166665077209473, 160.0, 73.0, 22.0 ],
-					"text" : "loadmess 1."
+					"text" : "loadmess 2."
 				}
 
 			}
@@ -1070,7 +1070,7 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "ParaRisset_poly.maxpat",
-				"bootpath" : "~/Dropbox/Scritti/2021_RhythmIllusions/OnlineRepository/BarberpoleTempoIllusions/RissetWithArbitrarySubdivisions/Patches",
+				"bootpath" : "~/Dropbox/Scritti/2021_RhythmIllusions/OnlineRepository/BarberpoleTempoIllusions/3.RissetRhythmsWithArbitrarySubdivisions/Patches",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
